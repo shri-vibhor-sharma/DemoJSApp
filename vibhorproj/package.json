@@ -1,0 +1,11 @@
+{
+  "name": "vibhorproj",
+  "version": "1.0.0",
+  "description": "this is sample project to get dir content in js",
+  "main": "fileops.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "vibhor sharma",
+  "license": "ISC"
+}
